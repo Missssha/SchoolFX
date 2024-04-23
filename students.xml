@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student age="17" fullname="Гловацкий Даниил Олегович" id="3" phoneNumber="89524564578" rating="Ударник" studClass="11А"/>
+    <student age="18" fullname="Плюснин Михаил Александрович" id="4" phoneNumber="89123620089" rating="Двоечник" studClass="11Б"/>
+    <student age="19" fullname="Шостик Иван Владимирович" id="11" phoneNumber="89125362647" rating="Отличник" studClass="11В"/>
+    <student age="10" fullname="Самойлов Марк Евгеньевич" id="12" phoneNumber="89325467698" rating="Ударник" studClass="3В"/>
+    <student age="18" fullname="Захарченко Даниил Андреевич" id="13" phoneNumber="89145674384" rating="Двоечник" studClass="11Г"/>
+    <student age="19" fullname="Здрогов Егор Дмитриевич" id="14" phoneNumber="89453657355" rating="Двоечник" studClass="11Г"/>
+    <student age="8" fullname="Васильев Марк Максимович" id="15" phoneNumber="89123345363" rating="Ударник" studClass="2А"/>
+    <student age="16" fullname="Брызгалов Василий Павлович" id="16" phoneNumber="89325437464" rating="Отличник" studClass="9Б"/>
+    <student age="17" fullname="Бусаров Александр Максимович" id="17" phoneNumber="89125463785" rating="Троечник" studClass="11В"/>
+    <student age="18" fullname="Бусыгина Видана Александровна" id="18" phoneNumber="89123214536" rating="Отличник" studClass="11А"/>
+    <student age="18" fullname="Санникова Алена Евгеньевна" id="19" phoneNumber="89345325462" rating="Отличник" studClass="11А"/>
+    <student age="8" fullname="Васильева Маргарита Васильевна" id="20" phoneNumber="89125372456" rating="Отличник" studClass="2А"/>
+    <student age="17" fullname="Валентов Егор Егорович" id="21" phoneNumber="89126374236" rating="Троечник" studClass="10А"/>
+    <student age="15" fullname="Либеранский Лев Маркович" id="22" phoneNumber="89126374264" rating="Двоечник" studClass="8В"/>
+    <student age="16" fullname="Смирнова Инна Павловна" id="23" phoneNumber="89126374835" rating="Ударник" studClass="9А"/>
+    <student age="14" fullname="Микрюкова Анастасия Сергеевна" id="24" phoneNumber="89625374236" rating="Троечник" studClass="7Б"/>
+    <student age="17" fullname="Шумарин Александр Дмитриевич" id="25" phoneNumber="89126378264" rating="Двоечник" studClass="10В"/>
+    <student age="16" fullname="Корюкин Юрий Юрьевич" id="26" phoneNumber="89126376285" rating="Двоечник" studClass="8Б"/>
+    <student age="15" fullname="Иванов Александр Сергеевич" id="27" phoneNumber="89126386395" rating="Троечник" studClass="8Б"/>
+</students>

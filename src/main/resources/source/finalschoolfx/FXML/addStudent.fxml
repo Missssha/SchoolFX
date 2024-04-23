@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane style="-fx-background-color: silver;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <AnchorPane layoutY="100.0" prefHeight="500.0" prefWidth="800.0" style="-fx-background-color: white;">
+         <children>
+            <TextField fx:id="nameTextField" layoutX="79.0" layoutY="106.0" prefHeight="37.0" prefWidth="202.0" promptText="ФИО" />
+            <TextField fx:id="phone_number_field" layoutX="477.0" layoutY="191.0" prefHeight="37.0" prefWidth="202.0" promptText="Номер телефона" />
+            <TextField fx:id="age_field" layoutX="477.0" layoutY="106.0" prefHeight="37.0" prefWidth="202.0" promptText="Возраст" />
+            <Button fx:id="submitButton" layoutX="282.0" layoutY="371.0" mnemonicParsing="false" onAction="#onSubmitButtonClick" prefHeight="66.0" prefWidth="235.0" style="-fx-background-color: #707070;" text="Добавить" textFill="WHITE">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Button>
+            <ComboBox fx:id="comboBoxClass" layoutX="79.0" layoutY="191.0" prefHeight="37.0" prefWidth="202.0" promptText="Класс" />
+            <TextField fx:id="rating_field" layoutX="282.0" layoutY="250.0" prefHeight="37.0" prefWidth="202.0" promptText="Успеваемость" />
+         </children>
+      </AnchorPane>
+      <Text layoutX="262.0" layoutY="63.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Добавление ученика" wrappingWidth="275.5355224609375">
+         <font>
+            <Font size="28.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
